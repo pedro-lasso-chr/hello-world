@@ -1,1 +1,2 @@
 Test add new file
+new text, merge with source tree
